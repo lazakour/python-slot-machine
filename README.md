@@ -36,3 +36,6 @@ python python-slot-machine.py
 **Lazaros**
 
 GitHub: [@lazakour](https://github.com/lazakour)
+## Screenshot
+
+![Slot Machine Preview](slot-machine-preview.png)
